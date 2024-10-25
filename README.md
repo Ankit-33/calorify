@@ -1,1 +1,1 @@
-a Food Classification and Calorie Detection sSytem using CNN
+A Food Classification and Calorie Detection System using Image Detection
